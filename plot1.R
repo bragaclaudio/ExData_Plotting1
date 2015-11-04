@@ -14,6 +14,7 @@ globalActivePower <- as.numeric(subSetData$Global_active_power)
 ##################
 #GENERATING GRAPH#
 ##################
+par(mfrow = c(1, 1))
 hist(globalActivePower, col="red", main="Global Active Power", xlab="Global Active Power (kilowatts)")
 dev.copy(png,'plot1.png', width=480, height=480, units="px")
 dev.off()
