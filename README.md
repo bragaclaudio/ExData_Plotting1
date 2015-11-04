@@ -1,25 +1,32 @@
-## Introduction
+# COURSERA
+# Peer Assessment 1 - Exploratory Data Analysis
 
-This assignment uses data from
-the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
-
-
-* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
-
-* <b>Description</b>: Measurements of electric power consumption in
-one household with a one-minute sampling rate over a period of almost
-4 years. Different electrical quantities and some sub-metering values
-are available.
+This repo contains the following files:
+* plot1.R
+* plot1.png
+* plot2.R
+* plot2.png
+* plot3.R
+* plot3.png
+* plot4.R
+* plot4.png
 
 
-The following descriptions of the 9 variables in the dataset are taken
-from
-the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
-web site</a>:
+Please, follow the instruction bellow to execute
+
+1. Get data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+2. Copy zip file to working directory
+3. Unzip folder in working directory
+4. Make sure that "household_power_consumption.txt" is in working directory
+5. Copy plot1.R, plot2.R, plot3.R, plot4.R to working directory
+6. submit each program
+
+#CODEBOOK:
+
+
+# Introduction
+
+household_power_consumption
 
 <ol>
 <li><b>Date</b>: Date in format dd/mm/yyyy </li>
