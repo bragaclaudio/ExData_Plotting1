@@ -39,7 +39,7 @@ household_power_consumption
 
 ## Result
 
-The four plots that were built is:
+The four plots that were built are:
 
 
 ### Plot 1
